@@ -1,0 +1,15 @@
+/** Error Coloring **/
+.alert {
+    font-family: arial, helvetica, serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: red;
+}
+
+
+.normal {
+    font-family: arial, helvetica, serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
