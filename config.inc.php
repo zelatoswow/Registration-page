@@ -1,8 +1,8 @@
 <?php
     class MySQL {
-        public static $dsn  = 'mysql:host=ipAddressOfServer;port=portToUse;dbname=auth;charset=utf8';
-        public static $user = 'userName';
-        public static $pass = 'passWord';
+        public static $dsn  = 'mysql:host=127.0.0.1;port=3306;dbname=auth;charset=utf8';
+        public static $user = 'root';
+        public static $pass = 'root';
 
 
 
